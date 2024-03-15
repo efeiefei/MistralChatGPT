@@ -44,14 +44,6 @@ export const modelCost = {
     prompt: { price: 0.0007, unit: 1000 },
     completion: {price: 0.0007, unit: 1000}
   },
-  'mistral-small': {
-    prompt: { price: 0.002, unit: 1000 },
-    completion: {price: 0.006, unit: 1000}
-  },
-  'mistral-medium': {
-    prompt: { price: 0.0027, unit: 1000 },
-    completion: {price: 0.0081, unit: 1000}
-  },
   'mistral-small-latest': {
     prompt: { price: 0.002, unit: 1000 },
     completion: {price: 0.006, unit: 1000}
